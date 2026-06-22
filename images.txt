@@ -1,1 +1,1 @@
-docker.getcollate.io/openmetadata/ingestion:1.13.0
+acryldata/datahub-actions:v1.5.0.6-slim
