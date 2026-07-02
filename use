@@ -1,4 +1,8 @@
 例如:
+登录：
+docker login --username=nick8199831417 crpi-yrb6tn0zjq6ad1ld.cn-beijing.personal.cr.aliyuncs.com
+Abcd985945
+
 docker pull acryldata/datahub-actions:v1.5.0.6-slim
 docker pull crpi-yrb6tn0zjq6ad1ld.cn-beijing.personal.cr.aliyuncs.com/xufeifeifei/datahub-actions:v1.5.0.6-slim
 
