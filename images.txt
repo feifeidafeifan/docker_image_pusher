@@ -1,2 +1,1 @@
-
-crpi-6pj79y7ddzdpexs8.cn-hangzhou.personal.cr.aliyuncs.com/wanwulite/doc_parser_server:1.2-20251016-amd64
+ghcr.io/abhigyanpatwari/gitnexus:latest
