@@ -1,1 +1,1 @@
-ghcr.io/abhigyanpatwari/gitnexus:latest
+ghcr.io/abhigyanpatwari/gitnexus-web:latest
